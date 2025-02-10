@@ -34,4 +34,4 @@ This project predicts **customer churn** using machine learning techniques like 
 ## 🚀 How to Run the Project
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/Customer-Churn-Prediction.git
+   git clone https://github.com/ashkan3171/Customer-Churn-Prediction.git
